@@ -1,0 +1,11 @@
+- Type of [[Neuroglia]]
+- Special type of[[ mononunclear phagocyte]] that resides in the CNS
+- Derived from hematopoietic precursor cells that migrate into the brain during development
+- Exists in one of two forms: amoeboid and ramified
+	- The [[ramified form]] is the dormant state
+		-  lying in wait
+	- The [[amoeboid form]] is the activated, mobile state when microglia cells are engaged
+		- The
+	- ![[Pasted image 20230501204256.png]]
+- Secrete signaling molecules that modulate local inflammatory resposnses
+**Glial cells** are thought to derive embryologically from either myeloid cells of the hematopoietic system (microglia) or neuroepithelial progenitor cells (astroglia and oligodendrocytes).

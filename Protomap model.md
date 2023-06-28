@@ -1,0 +1,1 @@
+The protomap model proposes that the cells in the [[embryonic cerebral vesicle]] carry intrinsic programs for species-specific cortical regionalization (Fukuchi-Shimogori and Grove, 2001; Miyashita-Lin et al., 1999; Rakic, 1988, 2001).

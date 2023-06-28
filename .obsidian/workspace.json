@@ -4,35 +4,74 @@
     "type": "split",
     "children": [
       {
-        "id": "7e051d735f6c6f63",
+        "id": "1e015a453c3f5b5a",
         "type": "tabs",
         "children": [
           {
-            "id": "0192fec976e4859e",
+            "id": "9af7c0514afe40c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Read Me.md",
+                "file": "Nucleus accumbens.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "7b705a63e3f11e93",
+            "id": "5a0660898e72a79d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "fdae280fc2c2d185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Tab.md",
+                "file": "Determinant.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f958961e76ae3d82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Motor neurons.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "af5a604bd7739c0d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "linear equations.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -77,12 +116,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "cea0c8be228149b7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "8ff085395f7b0830",
@@ -98,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Tab.md",
+                "file": "linear equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Tab.md",
+                "file": "linear equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,16 +185,15 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Tab.md"
+                "file": "linear equations.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -160,11 +206,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7b705a63e3f11e93",
+  "active": "af5a604bd7739c0d",
   "lastOpenFiles": [
-    "Read Me.md",
-    "New Tab.md",
-    "2023-04-01.md",
-    "Untitled.canvas"
+    "2023-06-28.md",
+    "Untitled 1.canvas",
+    "Cryptoarchitectural organization.md",
+    "Cortical expansion.md",
+    "neural progenitors.md",
+    "Cor.md",
+    "Cerebral cortex.md",
+    "Lateral Ventricle.md",
+    "linear equations.md",
+    "Nucleus accumbens.md",
+    "Basal Ganglia.md",
+    "putamen.md",
+    "caudate nucleus.md",
+    "Cranial Nerves.md",
+    "Untitled.canvas",
+    "Numpy.md",
+    "Numpy arrays.md",
+    "Numpy linear algebra.md",
+    "Motor neurons.md",
+    "glutamate.md",
+    "Row echelon form.md",
+    "Pasted image 20230523161229.png",
+    "Pasted image 20230523154747.png",
+    "Pasted image 20230523154524.png",
+    "Neurotransmitters.md",
+    "Determinant.md",
+    "Brainstem.md",
+    "Cross-Species Organization.md",
+    "Triangular matrix.md",
+    "Hormones.md",
+    "Pasted image 20230523114421.png",
+    "Pasted image 20230523114250.png",
+    "Pasted image 20230523114222.png",
+    "Pasted image 20230523113408.png",
+    "Pasted image 20230523113340.png",
+    "Pasted image 20230523113233.png",
+    "Pasted image 20230523113210.png",
+    "nternal-Capsule-and-Deep-Gray-Matter.pdf",
+    "A00831997_Portafolio.pdf",
+    "images"
   ]
 }

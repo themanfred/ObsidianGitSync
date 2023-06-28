@@ -1,0 +1,1 @@
+Etiology (pronounced /iːtiˈɒlədʒi/; alternatively: aetiology or ætiology) is **the study of causation or origination**. The word is derived from the Greek αἰτιολογία (aitiología) "giving a reason for" (αἰτία, aitía, "cause"); and -λογία (-logía).

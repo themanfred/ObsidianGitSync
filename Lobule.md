@@ -1,0 +1,1 @@
+A lobule, which is just a word that means a larger gyral structure. Look at [[central nervous system]]

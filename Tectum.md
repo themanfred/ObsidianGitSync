@@ -1,0 +1,1 @@
+tectum (L., roof)—used to refer to [[brainstem]] structures located [[Dorsal]] to the [[ventricular system]]. In mammals, this term has become synonymous with the dorsal [[midbrain]]

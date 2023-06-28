@@ -1,0 +1,5 @@
+**Cytoarchitecture** ([Greek](https://en.wikipedia.org/wiki/Ancient_Greek_language "Ancient Greek language") _[κύτος](https://en.wiktionary.org/wiki/%CE%BA%CF%8D%CF%84%CE%BF%CF%82#Ancient_Greek "wiktionary:κύτος")_= "cell" + _[ἀρχιτεκτονική](https://en.wiktionary.org/wiki/%E1%BC%80%CF%81%CF%87%CE%B9%CF%84%CE%AD%CE%BA%CF%84%CF%89%CE%BD#Ancient_Greek "wiktionary:ἀρχιτέκτων")_= "architecture"), also known as **cytoarchitectonics**, is the study of the [cellular](https://en.wikipedia.org/wiki/Cell_(biology) "Cell (biology)") composition of the central nervous system's tissues under the microscope
+
+
+
+Cytoarchitectonics is one of the ways to parse the brain, by obtaining sections of the brain using a [microtome](https://en.wikipedia.org/wiki/Microtome "Microtome") and staining them with chemical agents which reveal where different [neurons](https://en.wikipedia.org/wiki/Neuron "Neuron") are located.

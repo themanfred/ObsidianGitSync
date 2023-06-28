@@ -1,0 +1,7 @@
+![[Pasted image 20230521201611.png]]
+[[Lateral Ventricle]]
+[[Interventricural foramen]]
+[[Third ventricle]]
+[[Cerebral aqueduct]]
+[[Fourth ventricle]]
+[[Central canal]]
