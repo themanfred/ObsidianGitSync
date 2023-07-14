@@ -8,55 +8,87 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9af7c0514afe40c0",
+            "id": "2b62c60b418ca409",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nucleus accumbens.md",
+                "file": "Baics of fMRI.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "fdae280fc2c2d185",
+            "id": "0063970084590fd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Determinant.md",
+                "file": "Image Construction.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f958961e76ae3d82",
+            "id": "601d628277e7df20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Motor neurons.md",
+                "file": "pons.md",
                 "mode": "preview",
                 "source": false
               }
             }
           },
           {
-            "id": "af5a604bd7739c0d",
+            "id": "1ce85909834bb938",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Axon.md",
+                "file": "Perceptron.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "441bad787dbbc4b0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "3add97c5e055c17f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deep Learning (NN).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b53def14323e8b02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neuroglia.md",
                 "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +117,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#example",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -110,11 +142,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "8ff085395f7b0830",
@@ -130,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Axon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,9 +180,8 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Axon.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -169,12 +201,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Axon.md"
-              }
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,47 +222,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af5a604bd7739c0d",
+  "active": "441bad787dbbc4b0",
   "lastOpenFiles": [
-    "Autonomous Cars.md",
-    "corticospinal tract.md",
-    "axons.md",
+    "How to read a paper.md",
+    "Pasted image 20230714081353.png",
+    "Pasted image 20230714081245.png",
+    "Perceptron.md",
+    "Deep Learning (NN).md",
+    "Embedding.md",
+    "Pasted image 20230712164423.png",
+    "Backproapagation Through Time (BPTT).md",
+    "Pasted image 20230712160413.png",
+    "Pasted image 20230712160137.png",
+    "Pasted image 20230712155649.png",
+    "Recurrent Nural network.md",
+    "Pasted image 20230712155148.png",
+    "Pasted image 20230712154655.png",
+    "Pasted image 20230712154355.png",
+    "Pasted image 20230712154324.png",
+    "Neurons with Recurrence.md",
+    "Gradient Descent.md",
+    "Overfitting.md",
+    "Regularization.md",
+    "Backproapagation.md",
+    "6S191_MIT_DeepLearning_L1.pdf",
+    "mean squared error loss.md",
+    "Cross entropy loss.md",
+    "sigmoid function.md",
+    "Intelligence.md",
+    "AI.md",
+    "pons.md",
+    "Abducens Nerve.md",
     "Medulla oblongata.md",
-    "Telencephalon.md",
-    "spinal cord.md",
-    "Cranial Nerves.md",
-    "basel dendrites.md",
-    "array math operations.md",
-    "amoeboid form.md",
+    "Orbital cortex.md",
+    "Microbiología.md",
+    "Sesión 4. Fundamentos de Microbiología.pdf",
+    "Image Construction.md",
+    "Basics of MRI.md",
+    "Neuroglia.md",
+    "Myelin.md",
+    "Sesión 2. Ácidos Nucleicos.pdf",
+    "_782d718efde2e4caba5a3e651904ef9f_Basics_of_fMRI.pdf",
+    "_782d718efde2e4caba5a3e651904ef9f_Basics_of_MRI.pdf",
+    "_782d718efde2e4caba5a3e651904ef9f_Approaches_to_Neuroimaging.pdf",
     "A00831997_Portafolio.pdf",
-    "Trochlear Nerve.md",
-    "images/Pasted image 20230509160733.png",
-    "Untitled 7.md",
-    "Untitled 6.md",
-    "Untitled 5.md",
-    "Untitled 10.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "linear equations.md",
-    "2023-06-28.md",
-    "Cryptoarchitectural organization.md",
-    "Cortical expansion.md",
-    "neural progenitors.md",
-    "Cor.md",
-    "Cerebral cortex.md",
-    "Lateral Ventricle.md",
-    "Nucleus accumbens.md",
-    "Basal Ganglia.md",
-    "putamen.md",
-    "images/Pasted image 20230523161229.png",
-    "images/Pasted image 20230523154747.png",
-    "images/Pasted image 20230523154524.png",
-    "images/Pasted image 20230523114421.png",
-    "images/Pasted image 20230523114250.png",
-    "images/Pasted image 20230523114222.png",
-    "images/Pasted image 20230523113408.png",
-    "images/Pasted image 20230523113340.png",
-    "images/Pasted image 20230523113233.png",
     "nternal-Capsule-and-Deep-Gray-Matter.pdf",
     "images"
   ]

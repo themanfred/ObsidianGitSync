@@ -4,4 +4,4 @@ The upper and lower motor neurons form a two-neuron circuit.
 
 ### Neurotransmitters
 
-Upper motor neurons use [[glutamate]], while lower motor neurons use [[acetylcholine]].
+Upper motor neurons use [[Glutamate]], while lower motor neurons use [[acetylcholine]].

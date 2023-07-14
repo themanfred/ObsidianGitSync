@@ -1,0 +1,1 @@
+Magnetic resonance is **a process by which a physical excitation (resonance) is set up via magnetism**. This process was used to develop magnetic resonance imaging and Nuclear magnetic resonance spectroscopy technology.

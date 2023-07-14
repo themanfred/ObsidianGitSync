@@ -5,6 +5,7 @@ Just inferior to the [[pons]] there is the [[Medulla oblongata]]
 In the medulla there are two stuctures called the [[Medulla Pyramids]]
 
 
+
 ![[Pasted image 20230508202059.png]]
 This is a very important fiber pathway that runs through the brain stem. 
 

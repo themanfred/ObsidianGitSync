@@ -1,4 +1,6 @@
 
+
+
 ![[Pasted image 20230408142452.png]]
 
 Takes the values that are recieved and uses them along the new info to make predictions about tomorrow. Tomorrow's information the next day becomes yesterday's info for the day after and that is why it is recurring.
@@ -81,4 +83,66 @@ Sequential patterns
 - ignoring
 - forgetting
 - selection
-- 
+
+
+Thee RNN is maintaing the state and it's updating the state at each of these time
+
+![[Pasted image 20230712151946.png]]
+
+RNNS have a state ht, updates this state over time.
+
+How it starts
+
+
+![[Pasted image 20230712152027.png]]
+
+The RNN computation includes both this update f the hidden state and as welll generating an output at the end. The image below explains howÑ
+
+Given some input vecor, it then perfomrs an update on the hidden state. Taking a weight matrix and multipying that vy the previous hidden state and taking another weight matrix time the input and applying the no linearity.
+
+![[Pasted image 20230712153139.png]]
+Then we can generate at a given time step by just by just modifying the hidden state. Using a different weight Matrix to update this value and the  generate a predicted output.
+
+
+We can think of the RNN as a unrolling of all the states. We are Re'use the same weight matrices at every time  step 
+![[Pasted image 20230712153419.png]]
+
+We train this model, by defining the Loss. A prediction at an individual timestep. 
+
+A prediction at a specific time step amounts to the loss at that time step, we can get the total loss by adding all the loss at each respective step.
+
+![[Pasted image 20230712153844.png]]
+
+Looking at  [[Tensorflow]] the RNN can be defined as a [[layer operation]] and a [[layer class]]
+
+We can define it as the intialization of:
+- weight matrices
+- hidden states 
+![[Pasted image 20230712154355.png]]
+## RNNs for sequence modeling
+![[Pasted image 20230712154655.png]]
+
+
+To model sequences, we need to:
+
+1. Handle **variable-lenght** sequences
+2. Track **long-term** dependencies
+3. Maintain information about **order**
+4. **Share parameters** across the sequence
+. 
+## Design Criteria
+![[Pasted image 20230712155148.png]]
+
+#Example A sequence modeling problem: Predict the Next word:
+
+"<mark style="background: #BBFABBA6;">This morning I took my cat for a</mark> <mark style="background: #FF5582A6;">walk</mark>."
+
+	Given the words in green, predict word in red
+
+
+- The NN is not equipped to handle language explicityly right.
+- NN are simply mathematical operations
+
+Define a way to translate this text this text into a numerical encoding. A vector (an array of numbers).
+
+It works through [[Embedding]]

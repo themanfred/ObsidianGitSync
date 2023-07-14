@@ -12,3 +12,7 @@ These three divisions of the **striatum** receive inputs from different portions
 - The putamen is concerned with the regulation of bodily movement; 
 -  The [[caudate nucleus]] (especially its large anterior ‘head’) regulates movement of the mind and eyes (which often indicate what we are thinking about);  
 -   The nucleus accumbens is concerned with movement of emotion or motivated behavior
+![[Pasted image 20230628141629.png]]
+
+It has it's own memory and it has stimulus support learing for  motor memory.
+
