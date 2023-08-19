@@ -1,0 +1,1 @@
+![[1. Standard notations for Deep Learning 1.pdf]]

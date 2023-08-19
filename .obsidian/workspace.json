@@ -4,91 +4,59 @@
     "type": "split",
     "children": [
       {
-        "id": "1e015a453c3f5b5a",
+        "id": "e0aadf55d1832d31",
         "type": "tabs",
         "children": [
           {
-            "id": "2b62c60b418ca409",
+            "id": "193eb6d2fedfac7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Baics of fMRI.md",
+                "file": "Cost functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0063970084590fd2",
+            "id": "2c4e668c81877b0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Image Construction.md",
+                "file": "Derivatives.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "601d628277e7df20",
+            "id": "b2869ae2a8a2b154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pons.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1ce85909834bb938",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Perceptron.md",
+                "file": "Cost functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "441bad787dbbc4b0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "3add97c5e055c17f",
+            "id": "344263a218f2ec85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deep Learning (NN).md",
+                "file": "Transpose of a Matrix.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b53def14323e8b02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Neuroglia.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#example",
+                "query": "vanishing",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -142,8 +110,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,6 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Transpose of a Matrix.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,6 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Transpose of a Matrix.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -201,7 +170,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Transpose of a Matrix.md"
+              }
             }
           }
         ],
@@ -222,53 +193,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "441bad787dbbc4b0",
+  "active": "344263a218f2ec85",
   "lastOpenFiles": [
-    "How to read a paper.md",
-    "Pasted image 20230714081353.png",
-    "Pasted image 20230714081245.png",
-    "Perceptron.md",
-    "Deep Learning (NN).md",
-    "Embedding.md",
-    "Pasted image 20230712164423.png",
-    "Backproapagation Through Time (BPTT).md",
-    "Pasted image 20230712160413.png",
-    "Pasted image 20230712160137.png",
-    "Pasted image 20230712155649.png",
-    "Recurrent Nural network.md",
-    "Pasted image 20230712155148.png",
-    "Pasted image 20230712154655.png",
-    "Pasted image 20230712154355.png",
-    "Pasted image 20230712154324.png",
-    "Neurons with Recurrence.md",
-    "Gradient Descent.md",
-    "Overfitting.md",
-    "Regularization.md",
-    "Backproapagation.md",
-    "6S191_MIT_DeepLearning_L1.pdf",
-    "mean squared error loss.md",
-    "Cross entropy loss.md",
+    "Cost functions.md",
+    "4. Logistic_Regression_Cost_Function.pdf",
+    "Binary classification.md",
+    "2. Binary_Classification.pdf",
+    "Deep learning notation.md",
+    "1. Standard notations for Deep Learning 1.pdf",
+    "1. Standard notations for Deep Learning.pdf",
+    "Linear Regression.md",
     "sigmoid function.md",
-    "Intelligence.md",
-    "AI.md",
-    "pons.md",
-    "Abducens Nerve.md",
-    "Medulla oblongata.md",
-    "Orbital cortex.md",
-    "Microbiología.md",
-    "Sesión 4. Fundamentos de Microbiología.pdf",
-    "Image Construction.md",
-    "Basics of MRI.md",
+    "Transpose of a Matrix.md",
+    "Derivatives.md",
+    "Pasted image 20230819150117.png",
+    "Logistic Regression.md",
+    "Pasted image 20230819144638.png",
+    "Pasted image 20230819143811.png",
+    "Pasted image 20230819143610.png",
+    "Pasted image 20230819143532.png",
+    "Pasted image 20230819143322.png",
+    "Pasted image 20230819132532.png",
+    "Pasted image 20230819132451.png",
+    "Vectorization.md",
+    "Pasted image 20230819131231.png",
+    "Pasted image 20230819130011.png",
+    "Learning NN (0-1).md",
+    "Feature Columns.md",
+    "Tensorflow.md",
+    "Supervised Learning.md",
     "Neuroglia.md",
-    "Myelin.md",
+    "Epoch.md",
+    "6S191_MIT_DeepLearning_L1.pdf",
+    "axons.md",
+    "Baics of fMRI.md",
+    "Dendrites.md",
+    "Regularization.md",
+    "Convolutional Neural Networks.md",
+    "Saliency.md",
+    "Transfer Learning.md",
+    "ReLu function.md",
+    "Brain Orientation.md",
+    "Attention.md",
+    "Diffustion_Tensor_Imaging.pdf",
+    "Functional_Connectivity_MRI_Studies.pdf",
+    "Sesión 4. Fundamentos de Microbiología.pdf",
     "Sesión 2. Ácidos Nucleicos.pdf",
     "_782d718efde2e4caba5a3e651904ef9f_Basics_of_fMRI.pdf",
-    "_782d718efde2e4caba5a3e651904ef9f_Basics_of_MRI.pdf",
-    "_782d718efde2e4caba5a3e651904ef9f_Approaches_to_Neuroimaging.pdf",
-    "A00831997_Portafolio.pdf",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "nternal-Capsule-and-Deep-Gray-Matter.pdf",
-    "images"
+    "Untitled.canvas"
   ]
 }

@@ -19,7 +19,7 @@ On the one hand we can measure the longitudinal or also refer to as <mark style
 
 So the yellow arrow essentially determines the distance that the precision is off the flat plain, off the xy plain, if you will. </mark>
 
-So you can imagine that when the spin or when the proton is knocked over by a full 90 degrees that vector is 0, the precision happens fully within the xy plain.
+So you can imagine that when the spin or when the proton is knocked over by a full 90 degrees that vector is 0, the precision happens fully within the xz plain.
 
 ## [[T2]] 
 ![[Pasted image 20230702152844.png]]<mark style="background: #ABF7F7A6;">The second aspect that we can measure in such a system is the transverse or T2 relaxation</mark>, indicated by the blue arrow up top.

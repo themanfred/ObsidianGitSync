@@ -145,4 +145,41 @@ To model sequences, we need to:
 
 Define a way to translate this text this text into a numerical encoding. A vector (an array of numbers).
 
-It works through [[Embedding]]
+It works through [[Embedding]].
+
+
+There might be a bigger gap 
+
+![[Pasted image 20230720234137.png]]
+
+
+What are the limitations of Recurrent Models?
+![[Pasted image 20230721222419.png]]
+
+So what are the goals of sequence modeling
+
+
+RNN use the this notion of recurrence to maintain order information processing information time step by time step. 
+![[Pasted image 20230721222823.png]]
+So we go from:
+1. Sequence of inputs
+2. Sequence of features
+3. Sequence of outputs 
+
+Where we want to go beyond the limitations:
+![[Pasted image 20230721222930.png]]
+
+What if we could eliminate the need to process data time step by time step.
+
+So to do this how can we eliminate the need for recurrance?
+A naive approach is to mesh all the data and it is all a one stream.
+![[Pasted image 20230721223158.png]]
+
+However if we do this we will eliminate recurrance, but we would have lost order/indexation, no long term memory and it would not be scalable.
+![[Pasted image 20230721223359.png]]
+
+So a key idea would be to: Identify and attend to what's important.
+![[Pasted image 20230721223420.png]]
+
+This is the notion of [[Attention]] 
+

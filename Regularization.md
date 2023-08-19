@@ -3,7 +3,7 @@
 A technique that contains our optimization problem to dicourage complex models which result in [[Overfitting]].
 
 
-For #Example using this model  there is the dripout model
+For #Example using this model  there is the dropout model
 
 ### Dropout
 ![[Pasted image 20230710201244.png]]

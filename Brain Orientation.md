@@ -1,4 +1,4 @@
-The front of the brain [[Anterior end]]  and [[Posterior end]] is the back of the brain
+**The front of the brain [[Anterior end]]  and [[Posterior end]] is the back of the brain
 
 Medial is toward the midline.  Lateral is out towards the side.
 ![[Pasted image 20230501210651.png]]
